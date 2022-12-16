@@ -12,3 +12,6 @@ pkl
 
 Q5. sdfsd
 sdfsdf
+
+Q6.sdfsdf
+sadfsdf
